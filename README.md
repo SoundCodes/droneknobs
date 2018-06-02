@@ -6,7 +6,7 @@ Its a Synth made during KYTA 2017 at Kalga as part of Residency for a new notion
 The facility will be open to experimental sound artists from the summer of 2018 as a making,  listening and hacking space.
 
 
-###Modified slightly the code Tim Barrass using Mozzi library
+###Modified slightly the code by Tim Barrass using Mozzi library
 
  This Demonstrates using analog inputs from 16 channel multiplexer «CD74HC4067» control oscillators, phase modulation
  and smoothing a control signal at audio rate to avoid clicks.
@@ -25,7 +25,7 @@ The facility will be open to experimental sound artists from the summer of 2018 
 
 This Panel of Knobs enables oscillators and the control modulation. 
 
-Cosine wave table is used and the freq rage is 8hz to 8184hz
+Cosine wave table is used and the freq range is 8hz to 8184hz
 While the control-modulation is 0 - 127
 
 
