@@ -19,7 +19,13 @@ Modified slightly the code Tim Barrass using Mozzi library
  * For more about the interface of the library go to
  * https://github.com/pAIgn10/MUX74HC4067
 
-This Panel of Knobs enables osscilators and the control modultaion. 
+This Panel of Knobs enables oscillators and the control modulation. 
 
 Cosine wave table is used and the freq rage is 8hz to 8184hz
-While the controlmodulation is 0 - 127
+While the control-modulation is 0 - 127
+
+
+Use this Code in Various permutation changing the analog input for oscillators and control modulators.
+3 Nano + Mux, 3 Leonardo + 2 Mux and One Uno along is being used in the Panel.
+
+Only One Leonardo is sufficient for the design with Mux used as input for mux and get all the potentiometers into one Leonardo. Doing that was making the control oscillations clicky and buggy as ATmega32u4 is not able to process 50+ simultaneous oscillators.
