@@ -1,8 +1,12 @@
 # droneknobs
 Knobs that make Drone
 
+Its a Synth made during KYTA 2017 at Kalga as part of Residency for a new notional experimental quadrophonic audio environment in the Himalayas. 
 
-Modified slightly the code Tim Barrass using Mozzi library
+The facility will be open to experimental sound artists from the summer of 2018 as a making,  listening and hacking space.
+
+
+###Modified slightly the code Tim Barrass using Mozzi library
 
  This Demonstrates using analog inputs from 16 channel multiplexer «CD74HC4067» control oscillators, phase modulation
  and smoothing a control signal at audio rate to avoid clicks.
