@@ -1,7 +1,7 @@
 # droneknobs
 #### Knobs that make Drone
 
-Its a Synth made during [KYTA 2017](https://issuu.com/shazeb/docs/kyta_2017_catalog) at Kalga as part of Residency for a new [notional experimental quadrophonic audio environment]((https://sound.codes/works/kyta-karma-quad/)) in the Himalayas. 
+Its a Synth made during [KYTA 2017](https://issuu.com/shazeb/docs/kyta_2017_catalog) at Kalga as part of Residency for a new [notional experimental quadrophonic audio environment](https://sound.codes/works/kyta-karma-quad/) in the Himalayas. 
 
 The facility will be open to experimental sound artists from the summer of 2018 as a making,  listening and hacking space.
 
