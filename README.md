@@ -26,7 +26,12 @@ This built demonstrates analog inputs from 16 channel multiplexer [«CD74HC4067�
 	 
 ##### Nano:
 	 Audio output on digital pin 9
-	 Potentiometers on A0 A1 A2 A3 A4 A5 A6 A7
+	 Potentiometers on A1 A2 A3 A4 A5 A6 A7
+	 MUX74HC4067:
+	 ignal conects to A0
+     EN pin connects to 13
+     S0 » 11, S1 » 7, S2 » 5, S3 » 3
+     Potentiometers on 0-9
 	 
 ##### UNO:
 	 Audio output on digital pin 9
