@@ -38,3 +38,5 @@ Use this Code in Various permutation changing the analog input for oscillators a
 3 Nano + Mux, 3 Leonardo + 2 Mux and One Uno along is being used in the Panel.
 
 Only One Leonardo is sufficient for the design with Mux used as input for mux and get all the potentiometers into one Leonardo. Doing that was making the control oscillations clicky and buggy as ATmega32u4 is not able to process 50+ simultaneous oscillators.
+
+Panel.dxf can be used to replicate the design
