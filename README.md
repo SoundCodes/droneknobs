@@ -25,6 +25,7 @@ This built demonstrates analog inputs from 16 channel multiplexer «CD74HC4067»
  
 ###### Dependencies 
 [Mozzi](http://sensorium.github.com/Mozzi/)
+
 [CD74HC4067](https://github.com/pAIgn10/MUX74HC4067)
 
 
@@ -39,4 +40,4 @@ Use this Code in Various permutation changing the analog input for oscillators a
 
 Only One Leonardo is sufficient for the design with Mux used as input for mux and get all the potentiometers into one Leonardo. Doing that was making the control oscillations clicky and buggy as ATmega32u4 is not able to process 50+ simultaneous oscillators.
 
-Panel.dxf can be used to replicate the design
+[Panel.dxf](https://github.com/SoundCodes/droneknobs/blob/master/panel.dxf) can be used to replicate the design using Laser or CNC.
